@@ -1,0 +1,13 @@
+Steps to install
+
+- Install firefox
+- Write about:debugging on the search bar and press enter
+- Select "This Firefox"
+- Select "Load temporal extension"
+- Open the manifest of this project
+
+How to use
+
+- Go to the page and start a new trivia
+- Press the questions icon in the toolbar
+- Select show

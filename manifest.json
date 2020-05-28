@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "ShowMeTheAnswers",
+  "description": "Shows the answers of Edutrivia",
+  "version": "1.0",
+  "icons": {
+    "48": "icons/question-48.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/question-48.png",
+    "default_title": "ShowMeTheAnswers",
+    "default_popup": "popup/sta.html"
+  }
+}
